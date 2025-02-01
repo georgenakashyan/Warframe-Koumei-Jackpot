@@ -31,3 +31,12 @@ This project uses AutoHotKey version 2.0 and higher.
 -   **Delete Button**: Closes the program, including all subprograms.
 -   **Numpad 6**: Turn off `pressTwo.ahk`.
 -   **Numpad 7**: Turn off `pressThree.ahk`.
+
+## Current Issues
+
+There is a list of
+[Known Issues](https://github.com/georgenakashyan/Warframe-Koumei-Jackpot/issues) (things
+to be fixed or that aren't yet implemented).
+
+If you found a bug or have a new idea/feature for the program,
+[you can report them](https://github.com/georgenakashyan/Warframe-Koumei-Jackpot/issues).
